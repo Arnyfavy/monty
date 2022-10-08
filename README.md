@@ -1,1 +1,1 @@
-0x19. C - Stacks, Queues - LIFO, FIFO readme
+readme conted for 0x19. C - Stacks, Queues - LIFO, FIFO readme
